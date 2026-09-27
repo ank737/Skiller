@@ -1,0 +1,39 @@
+Home page: 
+On form "user_Resume" should be updated with username & ats score, skills found, strength, sections should be blank if user hasn't uploaded resume and should update as per user data if resume uploaded by the user. 
+Your unique API key is: "df314c9e-0857-4df9-90a2-15d8b5d83f07". 
+
+
+make feedback section real: 
+students who got the offer secitno should have real reviews also add option to giver their own feedback, new feedbacks will be added here. 
+
+Footer section : 
+github, (this website's  source code link)
+linkedin: my linkedin link 
+gamil: my gmail link 
+
+
+Job tab (navigation panel: )
+
+
+
+
+roadmap tab (navigation panel)
+shows current skills, missing skills, target role ( remove roadmap progress)
+current skills has real skill of user
+missing skills seciton has real missing skiil of user
+user API to give roadmap with timeline, weekly goals, monthly goals
+remove milestones section 
+remove phase2 section from bottom 
+
+
+
+DASHBOARD TAB(navigatino panel)
+redesign daashboard panel 
+show resume score, number of skills matched for role & number of missing skills. 
+recomended jobs (make a recomendatin system)
+show calender 
+
+
+FOOTER SECTION : 
+active all the links, (product: features, upload resume, job matches, roadmap, 
+Comany: about, privacy, terms, contact Account: login, register, dashboard, analysis)
