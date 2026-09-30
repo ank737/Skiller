@@ -1,6 +1,6 @@
 # Skiller — AI-Powered Career & Job Analysis Platform
 
-Skiller is an AI-powered career analysis and job discovery platform designed to help students, fresh graduates, and job seekers understand how well their skills match a target role, identify skill gaps, improve their resumes, and discover relevant job opportunities.
+Skiller is an AI-powered career analysis and job discovery platform designed to help students, fresuh graduates, and job seekers understand how well their skills match a target role, identify skill gaps, improve their resumes, and discover relevant job opportunities.
 
 Instead of simply showing job listings, Skiller analyzes a user's resume and skills to provide a more personalized view of their career readiness.
 
@@ -567,30 +567,30 @@ Testing should be performed with representative resumes containing different com
 
 ---
 
-# 📸 Screenshots
+# 📸 Pictures
 
 ## Sign-Up
 
-![Sign-up/Log-in](screenshots/SignUp&login.jpg)
+![Sign-up/Log-in](Pictures/SignUp&login.jpg)
 
 ## Landing / Home Page
 
 
-![Skiller Home Page](screenshots/homepage.jpg)
+![Skiller Home Page](Pictures/homepage.jpg)
 
 
 ## Career Analysis Dashboard
 
-![Career Analysis Dashboard](screenshots/Dashboard.jpg)
+![Career Analysis Dashboard](Pictures/Dashboard.jpg)
 
 ## Skill Gap Analysis
 
-![Skill Gap Analysis](screenshots/Analytics.jpg)
+![Skill Gap Analysis](Pictures/Analytics.jpg)
 
 
 ## AI Career Insights
 
-![AI Career Insights](screenshots/Roadmap.jpg)
+![AI Career Insights](Pictures/Roadmap.jpg)
 
 ---
 
